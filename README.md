@@ -1,5 +1,5 @@
 
-### Hi there, I'm Jamie - aka [JamieIsGeek][https://jamieisgeek.carrd.co]
+### Hi there, I'm Jamie - aka [JamieIsGeek] [https://jamieisgeek.carrd.co]
 
 ## I'm a Student, Devloper, Gamer and Musician
 
