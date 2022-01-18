@@ -1,5 +1,5 @@
 
-### Hi there, I'm Jamie - aka [JamieIsGeek] [https://jamieisgeek.carrd.co]
+### Hi there, I'm Jamie - aka [JamieIsGeek][carrd]
 
 ## I'm a Student, Devloper, Gamer and Musician
 
@@ -10,8 +10,8 @@
 - ⚡ Fun fact: I love to go on long walks in the cold!
 
 ### Connect with me:
-[<img align="left" alt="JamieIsGeek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://www.twitter.com/JamieIsGeek]
-[<img align="left" alt="JamieIsGeek | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://www.discord.com/channels/338063500616138752]
+[<img align="left" alt="JamieIsGeek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JamieIsGeek | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -23,7 +23,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<!---
-JamieIsGeek/JamieIsGeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+[carrd]: https://jamieisgeek.carrd.co
+[discord]: https://discordapp.com/users/338063500616138752
+[twitter]: https://twitter.com/jamieisgeek
