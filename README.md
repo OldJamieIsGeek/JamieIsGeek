@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Computer Science, Music and Javascript
 - 🌱 I’m currently learning, GCSE Music, GCSE Computer Science & GCSE Design and Technology!
-- 💞️ I’m looking to collaborate on discord bots
+- 💞️ I’m looking to collaborate on discord bots and Spigot Plugins
 - ⚡ Fun fact: I love to go on long walks in the cold!
 
 ### Connect with me:
