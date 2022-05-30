@@ -3,10 +3,6 @@
 
 ## I'm a Student, Developer, Gamer and Musician
 
-- 👀 I’m interested in Computer Science, Music and Javascript
-- 💞️ I’m looking to collaborate on discord bots and Spigot Plugins
-- ⚡ Fun fact: I love to go on long walks in the cold!
-
 ### Connect with me:
 [<img align="left" alt="JamieIsGeek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JamieIsGeek | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
