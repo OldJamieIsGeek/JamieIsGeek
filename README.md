@@ -23,8 +23,13 @@
 
 <br />
 
-# Github Stats:
+### Github Stats:
 [![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieisgeek)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieIsGeek)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [carrd]: https://jamieisgeek.carrd.co
 [discord]: https://discordapp.com/users/338063500616138752
