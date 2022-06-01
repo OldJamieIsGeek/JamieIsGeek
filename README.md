@@ -22,7 +22,8 @@
 [<img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/JamieIsGeek/JamieIsGeek/main/IntelliJ.png" />][discord]
 
 <br />
-<br />
+
+# Github Stats:
 [![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieisgeek)](https://github.com/anuraghazra/github-readme-stats)
 
 [carrd]: https://jamieisgeek.carrd.co
