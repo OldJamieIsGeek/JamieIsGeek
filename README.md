@@ -1,5 +1,5 @@
 
-### Hi there, I'm Jamie - aka [JamieIsGeek][carrd]
+### Hi there, I'm Jamie - aka [JamieIsGeek][website]
 
 ## I'm a Student, Developer, Gamer and Musician
 
@@ -31,6 +31,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieIsGeek)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[carrd]: https://jamieisgeek.carrd.co
+[website]: https://jamieisgeek.is-a.dev
 [discord]: https://discordapp.com/users/338063500616138752
 [twitter]: https://twitter.com/jamieisgeek
